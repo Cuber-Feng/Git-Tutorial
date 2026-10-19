@@ -4,8 +4,9 @@ This is just a demo repository for Git tutorial.
 
 ## Part 1
 
-Edited online.
-And again.
+Edited online. And again.
+
+And this time we change different lines.
 
 ## Part 2
 
